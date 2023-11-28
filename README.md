@@ -27,10 +27,13 @@
   MIT
 
   ## Collaborators
-  https://github.com/Pokepoison
-  https://github.com/benjaminescobar1
-  https://github.com/HeberMartinezLopez
-  https://github.com/Lorenzo-Olivar
+  - https://github.com/Pokepoison
+
+  - https://github.com/benjaminescobar1
+
+  - https://github.com/HeberMartinezLopez
+
+  - https://github.com/Lorenzo-Olivar
   
   ## Questions:
   For any questions reach out to the following developers via email or GitHub:
