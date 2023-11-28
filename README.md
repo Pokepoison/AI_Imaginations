@@ -23,10 +23,10 @@
   ## Contributions:
   Contributions are always welcomed. Please make sure to contact one of the developers for pull requests to be approved.
 
-  ## License
+  ## License:
   MIT
 
-  ## Collaborators
+  ## Collaborators:
   - https://github.com/Pokepoison
 
   - https://github.com/benjaminescobar1
@@ -49,7 +49,7 @@
   ## Website:
   https://imagination-6dd56d17e2a5.herokuapp.com/
 
-  ## Screenshot:
+  ## Screenshots:
   ![Screenshot (131)](https://github.com/Pokepoison/first-day-demo/assets/134848930/ee5a743b-4174-457a-b257-db8e211a3021)
  
   ![Screenshot (135)](https://github.com/Pokepoison/AI_Imaginations/assets/134848930/d54d49cc-b2e0-47c1-8c87-a0c022c753d0)
