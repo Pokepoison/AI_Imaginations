@@ -3,6 +3,10 @@ import * as dotenv from 'dotenv';
 import cors from 'cors';
 
 import path from 'path';
+import { dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 import connectDB from './mongodb/connect.js';
 import postRoutes from './routes/postRoutes.js';
