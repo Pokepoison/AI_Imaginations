@@ -51,3 +51,8 @@
 
   ## Screenshot:
   ![Screenshot (131)](https://github.com/Pokepoison/first-day-demo/assets/134848930/ee5a743b-4174-457a-b257-db8e211a3021)
+ 
+  ![Screenshot (135)](https://github.com/Pokepoison/AI_Imaginations/assets/134848930/d54d49cc-b2e0-47c1-8c87-a0c022c753d0)
+ 
+  ![Screenshot (133)](https://github.com/Pokepoison/AI_Imaginations/assets/134848930/00c0fa78-2532-49d1-bcaf-7d3c949f32f7)
+
