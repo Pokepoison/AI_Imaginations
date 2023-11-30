@@ -10,14 +10,14 @@
   - [Screenshots](#Screenshots)
 
   ## Description:
-  Hello and welcome to AI Imaginations. The purpose of this application is to allow users to create and save AI generated images. Not only can users create their own files but they can also share with other users. When the application is first loaded the page opens with a community showcase along with the users to search for post or create their own Ai generated image. When the user clicks on the create button a new page opens that allows users to enter their name, prompt an image they want the Ai to generate or even generate a surprise image from the Ai itself, a generate button to allow the Ai to generate the photo and a share with the community button so that other users can see Ai generated images. Once the image is generated if the user no longer wants to share or keep the image they are able to delete it from their image generator. The following technology is used in order to make this application successful: Node.js, Express.js, MongoDB and React.js from MERN stack. Along with Tailwind for CSS framework, OPENAI's DALL-E model as a learning model that generates the images from the text input and Cloudinary as a cloud-based image storage. We hope you enjoy and have fun using our application!
+  Hello and welcome to AI Imaginations. The purpose of this application is to allow users to create and save AI-generated images. Not only can users create their own files but they can also share with other users. When the application is first loaded the page opens with a community showcase along with the users to search for posts or create their own AI-generated images. When the user clicks on the create button a new page opens that allows users to enter their name, prompt an image they want the AI to generate, or even generate a surprise image from the AI itself, a generate button to allow the AI to generate the photo and a share with the community button so that other users can see Ai generated images. Once the image is generated if the user no longer wants to share or keep the image they are able to delete it from their image generator. The following technology is used in order to make this application successful: Node.js, Express.js, MongoDB, and React.js from M.E.R.N. stack. Along with Tailwind for CSS framework, OPENAI's DALL-E model is a learning model that generates the images from the text input and Cloudinary as a cloud-based image storage. We hope you enjoy and have fun using our application!
 
   ## Installation:
   1. Clone the repository.
   2. Navigate to the directory.
-  3. Install dependencies needed on client and server folder by performing: "npm install" or "npm i" following each dependencies.
-  4. Run "npm run dev" on client side and run localhost:5183.
-  5. Run "npm start" on server side and run localhost:8080.
+  3. Install dependencies needed in the client and server folder by performing: "npm install" or "npm i" following each dependencies.
+  4. Run "npm run dev" on the client side and run localhost:5183.
+  5. Run "npm start" on the server side and run localhost:8080.
   5. Connects to localhost:5183 and localhost:8080 to use in web browser.
 
   ## Contributions:
